@@ -1,4 +1,4 @@
-A simple Redux Hello World
+# A Simple Hello World!
 
 Technologies used:
 
